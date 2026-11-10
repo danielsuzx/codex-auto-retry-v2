@@ -1,0 +1,10 @@
+# Runtime
+psutil>=5.9
+Pillow>=10
+numpy>=1.24
+opencv-python>=4.8
+pywin32>=306
+rapidocr-onnxruntime>=1.3
+
+# Offline tests
+pytest>=7.0
